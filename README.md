@@ -1,18 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on React-based frontend projects  <br>👯 I’m looking to collaborate on modern web applications  <br>🤝 I’m looking for help with advanced React patterns and performance optimization  <br>🌱 I’m currently learning TypeScript and frontend architecture  <br>💬 Ask me about React, JavaScript, and responsive design  <br>⚡ Fun fact: I enjoy turning complex UI ideas into simple, clean interfaces
+<div align="center">
 
+# Hi 👋, I'm Mahir Hasin Mubtasin
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahirrhasinmubtasin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahirrhasinmubtasin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/immubtasin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mubtasin27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:immubtasin@gmail.com) 
+### A passionate developer from Bangladesh
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=immubtasin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=immubtasin&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=immubtasin&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github.com/immubtasin.png" alt="Mahir Hasin Mubtasin" width="150" height="150" style="border-radius: 50%;" />
+
+</div>
+
+## 🚀 About Me
+
+Frontend Developer Focused on usability, performance, and long-term maintainability
+
+## 💼 Internships
+
+| Company | Position | Duration |
+|---|---|---|
+| Creative IT | Junior Frontend Developer | 2026-02 -  |
+
+### Junior Frontend Developer at Creative IT
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **immubtasin@gmail.com**
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/immubtasin)&nbsp;&nbsp;&nbsp;[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mubtasin27)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/immubtasin)&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mahirrhasinmubtasin)&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahirrhasinmubtasin)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />
+
+### 💻 Mobile App Development
+
+<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
+
+### 💻 Frontend Development
+
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />
+
+### 💻 Software
+
+<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
+
+### 💻 Other
+
+<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=immubtasin&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=immubtasin&theme=dark&column=7&margin-w=15&margin-h=15)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=immubtasin&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=immubtasin&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=immubtasin&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/mubtasin27?style=social)](https://twitter.com/mubtasin27)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=immubtasin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=immubtasin&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
