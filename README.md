@@ -83,10 +83,12 @@
 
 ---
 
-# ✨ Dev Quote
+<h2 align="center">✨ Dev Quote</h2>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  style="border-radius:18px; box-shadow:0px 8px 20px rgba(0,0,0,0.4);" />
 </p>
 
 ---
