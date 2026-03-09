@@ -55,7 +55,9 @@
 </div>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=immubtasin&theme=gruvbox-duo&border_radius=7&card_width=500" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=immubtasin&theme=gruvbox-duo&border_radius=7&card_width=500" alt="GitHub Streak" /></a>
+</div>
 <!-- FUTURISTIC FOOTER -->
 
 <p align="center">
