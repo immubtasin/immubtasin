@@ -57,14 +57,6 @@
 
 </p>
 
----
-
-# 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=immubtasin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 
 
 <!-- # 🏆 GitHub Achievements -->
@@ -105,7 +97,7 @@
 <!-- <img src="https://visitcount.itsvg.in/api?id=immubtasin&label=Profile%20Views&color=0&icon=5&pretty=true"/> -->
 <!-- </p> -->
 
----
+
 
 <!-- FUTURISTIC FOOTER -->
 
