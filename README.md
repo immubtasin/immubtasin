@@ -20,87 +20,45 @@
 
 ---
 
-# 🌐 Connect With Me
-
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-<a href="https://facebook.com/mahirrhasinmubtasin">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="https://facebook.com/mahirrhasinmubtasin" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
-<a href="https://instagram.com/mahirrhasinmubtasin">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+
+<a href="https://instagram.com/mahirrhasinmubtasin" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/immubtasin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+<a href="https://linkedin.com/in/mubtasin27" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="mailto:immubtasin@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+
+<a href="https://github.com/immubtasin" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-# ⚡ Tech Stack
-
+<h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,vite,npm,vercel,netlify,git,github&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,git,github,vscode,figma,bootstrap,photoshop&theme=dark" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+<div align="center">
+<a href="https://github.com/immubtasin">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=immubtasin&theme=react-dark" alt="immubtasin Activity Graph"/>
+</a>
+</div>
 
-<p align="center">
+<h3 align="center">📊 GitHub Stats</h3>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=immubtasin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=immubtasin&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-
-<!-- # 🏆 GitHub Achievements -->
-
-<!-- <p align="center"> -->
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=immubtasin&theme=tokyonight&no-frame=true&row=1&column=7"/> -->
-<!-- </p> -->
-
-
-
-<!-- # 📊 Contribution Graph -->
-
-<!-- <p align="center"> -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=immubtasin&theme=tokyo-night&hide_border=true"/> -->
-<!-- </p> -->
-
-
-
-<!-- # 🐍 Contribution Snake -->
-
-<!-- <p align="center"> -->
-<!-- <img src="https://github.com/immubtasin/immubtasin/blob/output/github-contribution-grid-snake.svg"/> -->
-<!-- </p> -->
-
----
-
-<h2 align="center">✨ Dev Quote</h2>
-
-<p align="center">
-  <img 
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  style="border-radius:18px; box-shadow:0px 8px 20px rgba(0,0,0,0.4);" />
-</p>
-
----
-
-<!-- # 👀 Visitor Counter -->
-
-<!-- <p align="center"> -->
-<!-- <img src="https://visitcount.itsvg.in/api?id=immubtasin&label=Profile%20Views&color=0&icon=5&pretty=true"/> -->
-<!-- </p> -->
-
-
-
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=immubtasin&theme=dark&hide_border=false" />
+</div>
 <!-- FUTURISTIC FOOTER -->
 
 <p align="center">
