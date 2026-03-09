@@ -55,9 +55,7 @@
 </div>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=immubtasin&theme=dark&hide_border=false" alt="immubtasin Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=immubtasin&theme=gruvbox-duo&border_radius=7&card_width=500" alt="GitHub Streak" /></a>
 <!-- FUTURISTIC FOOTER -->
 
 <p align="center">
