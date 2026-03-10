@@ -55,12 +55,12 @@
 </div>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
+
  ![](https://github-readme-stats.vercel.app/api?username=immubtasin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=immubtasin&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=immubtasin&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+
 <!-- FUTURISTIC FOOTER -->
 
 <p align="center">
